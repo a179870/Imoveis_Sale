@@ -1,4 +1,4 @@
-#Sat Sep 29 18:55:47 BRT 2018
+#Sun Sep 30 14:27:40 BRT 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
@@ -7,7 +7,7 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/Users/alekatao/Desktop/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/13
-base.2=/Users/alekatao/Desktop/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/11
-base.1=/Users/alekatao/Desktop/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/14
-base.0=/Users/alekatao/Desktop/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/12
+base.3=/Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/14
+base.2=/Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/11
+base.1=/Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/13
+base.0=/Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/12

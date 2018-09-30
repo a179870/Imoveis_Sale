@@ -123,7 +123,11 @@ public class MainActivity extends AppCompatActivity
 
         } else if (id == R.id.nav_buscar) {
             Toast.makeText(this, "Buscar", Toast.LENGTH_SHORT).show();
-
+            Fragment buscarFragment = fragmentManager.findFragmentByTag("buscar");
+            if (buscarFragment == null) {
+                buscarFragment = new BuscarFragment();
+            }
+            replaceFragment(buscarFragment, "buscar");
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_send) {

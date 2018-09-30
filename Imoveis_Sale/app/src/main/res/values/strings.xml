@@ -13,5 +13,5 @@
     <string name="action_settings">Settings</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Imoveis fragment Imoveis fragment Imoveis fragment Imoveis fragment </string>
+    <string name="hello_blank_fragment">Blank fragment </string>
 </resources>

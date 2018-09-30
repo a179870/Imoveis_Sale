@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:design:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/163ad9f87b3e81580cfa72aaa913c9ca/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/88bff653093bcf747637225a1f1e5912/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f31851827a55084122e42700576c8e73/AndroidManifest.xml:2:1-11:12
@@ -37,25 +37,25 @@ MERGED from [com.android.support:interpolator:28.0.0] /Users/alekatao/.gradle/ca
 MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5ddb860add8b6fce28cd7b1201fbf52e/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/648ae7ec5c7e8c81716d84d4db07780d/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12394c5dc48d22d696167c3a52056763/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:3:5-57
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:3:5-57
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:5:5-22:19
+ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support:design:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/163ad9f87b3e81580cfa72aaa913c9ca/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/163ad9f87b3e81580cfa72aaa913c9ca/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/f31851827a55084122e42700576c8e73/AndroidManifest.xml:9:5-20
@@ -67,39 +67,39 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alekatao/.gr
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/79e4f7afcf79eb38324263222556bda4/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:11:9-40
 activity#br.unicamp.ft.m183414_a179870.imoveis_sale.MainActivity
-ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:12:9-21:20
+ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:12:9-21:20
 	android:label
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:14:13-45
 	android:theme
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:15:13-56
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:13:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:16:13-20:29
+ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:17:17-69
+ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:17:25-66
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:19:17-77
+ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml:19:27-74
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:design:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/163ad9f87b3e81580cfa72aaa913c9ca/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/163ad9f87b3e81580cfa72aaa913c9ca/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/88bff653093bcf747637225a1f1e5912/AndroidManifest.xml:20:5-44
@@ -166,13 +166,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alekatao/.gradle
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/648ae7ec5c7e8c81716d84d4db07780d/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12394c5dc48d22d696167c3a52056763/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] /Users/alekatao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/12394c5dc48d22d696167c3a52056763/AndroidManifest.xml:20:5-44
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-		ADDED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/alekatao/Desktop/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/src/main/AndroidManifest.xml
