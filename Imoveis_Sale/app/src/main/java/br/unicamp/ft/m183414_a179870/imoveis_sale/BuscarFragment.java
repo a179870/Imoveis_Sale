@@ -8,6 +8,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
+import android.widget.CheckBox;
+import android.widget.EditText;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -26,6 +30,12 @@ public class BuscarFragment extends Fragment {
     View view;
     Spinner spinnerValor;
     Spinner spinnerTipoImovel;
+    RadioGroup radio;
+    EditText lugar;
+    CheckBox che1;
+    CheckBox che2;
+    CheckBox che3;
+    CheckBox che4;
 
     private OnFragmentInteractionListener mListener;
 
@@ -38,6 +48,11 @@ public class BuscarFragment extends Fragment {
         Bundle args = new Bundle();
         fragment.setArguments(args);
         return fragment;
+    }
+
+    public void onRadioButtonClick(View view){
+        String text = ((RadioButton)view).getText().toString();
+        Toast.makeText(this.getContext(), text, Toast.LENGTH_SHORT).show();
     }
 
     @Override
@@ -55,6 +70,60 @@ public class BuscarFragment extends Fragment {
 
         spinnerValor = view.findViewById(R.id.spinnerValor);
         spinnerTipoImovel = view.findViewById(R.id.spinnerTipoImovel);
+        //radio = (RadioGroup) view.findViewById(R.id.radioGroup);
+        lugar = view.findViewById(R.id.editLugar);
+        che1 = view.findViewById(R.id.check1);
+        che2 = view.findViewById(R.id.check2);
+        che3 = view.findViewById(R.id.check3);
+        che4 = view.findViewById(R.id.check4);
+
+        che1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(getContext(), "1 Quarto", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        che2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(getContext(), "2 Quartos", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        che3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(getContext(), "3 Quartos", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+        che4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(getContext(), "4 Quartos", Toast.LENGTH_SHORT).show();
+            }
+        });
+
+
+        radio = (RadioGroup) view.findViewById(R.id.radioGroup);
+        radio.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener()
+        {
+            @Override
+            public void onCheckedChanged(RadioGroup group, int checkedId)
+            {
+                switch(checkedId)
+                {
+                    case R.id.radioAlugar:
+                        Toast.makeText(getContext(), "Alugar", Toast.LENGTH_SHORT).show();
+                        break;
+                    case R.id.radioComprar:
+                        Toast.makeText(getContext(), "Comprar", Toast.LENGTH_SHORT).show();
+                        break;
+
+                }
+            }
+        });
 
         
 
@@ -69,6 +138,9 @@ public class BuscarFragment extends Fragment {
 
             }
         };
+
+
+
         spinnerValor.setOnItemSelectedListener(itemSelectedListener);
         spinnerValor.setOnItemSelectedListener(itemSelectedListener);
 
@@ -83,6 +155,25 @@ public class BuscarFragment extends Fragment {
             mListener.onFragmentInteraction(uri);
         }
     }
+
+    public void onCheckBox(View view){
+        boolean checked = ((CheckBox) view).isChecked();
+        switch(view.getId()){
+            case R.id.check1:
+                if(checked){
+                    Toast.makeText(getContext(), "1 Quarto", Toast.LENGTH_SHORT).show();
+                }
+                break;
+
+            case R.id.check2:
+                if(checked) {
+                    Toast.makeText(getContext(), "2 Quartos", Toast.LENGTH_SHORT).show();
+                }
+                break;
+        }
+    }
+
+
 
 //    @Override
 //    public void onAttach(Context context) {

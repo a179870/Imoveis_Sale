@@ -36,10 +36,75 @@
             android:layout_height="wrap_content"
             android:entries="@array/spinnerTipoImovel_values" />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Você deseja: "
+            android:textStyle="bold"/>
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/radioAlugar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Alugar"
+                />
+            <RadioButton
+                android:id="@+id/radioComprar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Comprar"
+                />
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Numero de Quartos: "
+            android:textStyle="bold"
+            />
+        <CheckBox
+            android:id="@+id/check1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1" />
+
+        <CheckBox
+            android:id="@+id/check2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2" />
+        <CheckBox
+            android:id="@+id/check3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3" />
+        <CheckBox
+            android:id="@+id/check4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4 +" />
+
+        <EditText
+            android:id="@+id/editLugar"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:hint="Escreva o endereço de onde você procura o Imóvel"/>
+
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Buscar"
             android:id="@+id/btnBuscar"/>
     </LinearLayout>
+
+
 </FrameLayout>

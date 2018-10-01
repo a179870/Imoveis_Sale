@@ -1,4 +1,4 @@
-#Mon Oct 01 10:55:29 BRT 2018
-base.0=/Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/build/intermediates/transforms/dexMerger/debug/6
+#Mon Oct 01 13:23:23 BRT 2018
+base.0=C\:\\Users\\ramon\\Imoveis_Sale\\Imoveis_Sale\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex

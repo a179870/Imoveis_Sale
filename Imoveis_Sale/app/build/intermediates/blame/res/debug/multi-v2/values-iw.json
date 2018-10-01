@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/alekatao/Documents/Unicamp/DispositivosMoveis/Imoveis_Sale/Imoveis_Sale/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "C:\\Users\\ramon\\Imoveis_Sale\\Imoveis_Sale\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
-                    "source": "/Users/alekatao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/79e4f7afcf79eb38324263222556bda4/res/values-iw/values-iw.xml",
+                    "source": "C:\\Users\\ramon\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\9cd272e56ded36950fcf5518ec84c9a4\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/alekatao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/88bff653093bcf747637225a1f1e5912/res/values-iw/values-iw.xml",
+                    "source": "C:\\Users\\ramon\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\7856dfe254cd473b7e2bf5318c699714\\res\\values-iw\\values-iw.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
