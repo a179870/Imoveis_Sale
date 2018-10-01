@@ -7,6 +7,10 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.Spinner;
+import android.widget.TextView;
+import android.widget.Toast;
 
 
 /**
@@ -20,6 +24,8 @@ import android.view.ViewGroup;
 public class BuscarFragment extends Fragment {
 
     View view;
+    Spinner spinnerValor;
+    Spinner spinnerTipoImovel;
 
     private OnFragmentInteractionListener mListener;
 
@@ -44,10 +50,27 @@ public class BuscarFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         if(view == null){
-            view = inflater.inflate(R.layout.fragment_mapa, container, false);
+            view = inflater.inflate(R.layout.fragment_buscar, container, false);
         }
 
-//        foto = view.findViewById(R.id.foto);
+        spinnerValor = view.findViewById(R.id.spinnerValor);
+        spinnerTipoImovel = view.findViewById(R.id.spinnerTipoImovel);
+
+        
+
+        AdapterView.OnItemSelectedListener itemSelectedListener = new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View selectedItemView, int position, long id) {
+                String txt = ((TextView)selectedItemView).getText().toString();
+//                Toast.makeText(view,getContext(), txt, Toast.LENGTH_SHORT).show();
+            }
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+
+            }
+        };
+        spinnerValor.setOnItemSelectedListener(itemSelectedListener);
+        spinnerValor.setOnItemSelectedListener(itemSelectedListener);
 
 
         // Inflate the layout for this fragment
